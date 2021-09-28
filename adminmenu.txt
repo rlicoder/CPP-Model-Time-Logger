@@ -1,0 +1,7 @@
+View all students
+View all classes
+Create a class
+Delete a class
+Add a student
+Delete a student
+Logout
